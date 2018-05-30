@@ -12,31 +12,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ExercicioControleFluxoSwitch.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxoSwitch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ControleFluxoIf1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ControleFluxoIf1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+            <state relative-caret-position="180">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ControleFluxo2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ControleFluxo2.java">
+      <file leaf-file-name="ControleFluxoSwitch.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ControleFluxoSwitch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="122" lean-forward="false" selection-start-line="17" selection-start-column="122" selection-end-line="17" selection-end-column="122" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ExercicioControleFluxo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+            <state relative-caret-position="94">
+              <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
               <folding />
             </state>
           </provider>
@@ -74,6 +74,8 @@
         <option value="$PROJECT_DIR$/src/ControleFluxoIf1.java" />
         <option value="$PROJECT_DIR$/src/ControleFluxo2.java" />
         <option value="$PROJECT_DIR$/src/ExercicioControleFluxo.java" />
+        <option value="$PROJECT_DIR$/src/ControleFluxoSwitch.java" />
+        <option value="$PROJECT_DIR$/src/ExercicioControleFluxoSwitch.java" />
       </list>
     </option>
   </component>
@@ -153,7 +155,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ExercicioControleFluxo">
+  <component name="RunManager" selected="Application.ExercicioControleFluxoSwitch">
     <configuration name="ControleFluxo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ControleFluxo2" />
@@ -182,6 +184,20 @@
       <module name="MaratonaJava" />
       <envs />
     </configuration>
+    <configuration name="ControleFluxoSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="ControleFluxoSwitch" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MaratonaJava" />
+      <envs />
+    </configuration>
     <configuration name="ExercicioControleFluxo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="ExercicioControleFluxo" />
@@ -196,23 +212,9 @@
       <module name="MaratonaJava" />
       <envs />
     </configuration>
-    <configuration name="OperadoresDeAtribuicao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ExercicioControleFluxoSwitch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="OperadoresDeAtribuicao" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="MaratonaJava" />
-      <envs />
-    </configuration>
-    <configuration name="OperadoresLogicos" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="OperadoresLogicos" />
+      <option name="MAIN_CLASS_NAME" value="ExercicioControleFluxoSwitch" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -306,19 +308,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.OperadoresLogicos" />
-      <item index="1" class="java.lang.String" itemvalue="Application.OperadoresDeAtribuicao" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ControleFluxoIf1" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ControleFluxo2" />
-      <item index="4" class="java.lang.String" itemvalue="Application.ExercicioControleFluxo" />
+      <item index="0" class="java.lang.String" itemvalue="Application.ControleFluxoIf1" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ControleFluxo2" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ExercicioControleFluxo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.ControleFluxoSwitch" />
+      <item index="4" class="java.lang.String" itemvalue="Application.ExercicioControleFluxoSwitch" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.ExercicioControleFluxo" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ControleFluxo2" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ControleFluxoIf1" />
-        <item index="3" class="java.lang.String" itemvalue="Application.OperadoresDeAtribuicao" />
-        <item index="4" class="java.lang.String" itemvalue="Application.OperadoresLogicos" />
+        <item index="0" class="java.lang.String" itemvalue="Application.ExercicioControleFluxoSwitch" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ControleFluxoSwitch" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ExercicioControleFluxo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ControleFluxo2" />
+        <item index="4" class="java.lang.String" itemvalue="Application.ControleFluxoIf1" />
       </list>
     </recent_temporary>
   </component>
@@ -338,12 +340,12 @@
       <workItem from="1527023508791" duration="7000" />
       <workItem from="1527293289892" duration="1725000" />
       <workItem from="1527534377483" duration="4899000" />
-      <workItem from="1527691191079" duration="4953000" />
+      <workItem from="1527691191079" duration="7779000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27206000" />
+    <option name="totallyTimeSpent" value="30032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="50" y="50" width="1366" height="723" extended-state="6" />
@@ -358,7 +360,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850242" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -613,10 +615,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ControleFluxoIf1.java">
+    <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="10" column="22" lean-forward="false" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="30">
+          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
           <folding />
         </state>
       </provider>
@@ -629,10 +631,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxo.java">
+    <entry file="file://$PROJECT_DIR$/src/ControleFluxoIf1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="11" column="26" lean-forward="false" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        <state relative-caret-position="180">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ControleFluxoSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExercicioControleFluxoSwitch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
