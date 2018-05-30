@@ -9,8 +9,10 @@ public class OperadoresDeAtribuicao {
         //salario += 1000;
         salario = salario + (int)(salario * 0.1);
 
+        int numero = 11;
+        numero %= 2;
 
-
-        System.out.println(salario);
+        System.out.println("O resto é: " + numero);
+        System.out.println("O salario é: " + salario);
     }
 }

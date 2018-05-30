@@ -5,14 +5,13 @@ public class ImprimindoVariaveis {
     */
 
     /***
+     * Documentação
      * Esse é o metodo main
-     * @param args parametro deentradado metodo main
+     * @param args parametro de entradada metodo main
      */
     public static void main(String[] args) {
 
-        /*Tipos primitivos:int, double, float, boolean, char, byte, short, long
-
-        */
+        //Tipos primitivos:int, double, float, boolean, char, byte, short, long
 
         int idadeAlunos = 20;
         double salarioDouble = 3000;
@@ -22,10 +21,11 @@ public class ImprimindoVariaveis {
         boolean verdadeiro = true;
         boolean falso = false;
         long numeroGrande = 1000L;
-        char caractere = '\u0041'; // 2 byts traz os valores da tabela Unicode ou hexadecimal ex: \u0041
+        char caractere = 95; // 2 byts traz os valores da tabela Unicode ou hexadecimal ex: \u0041
+        // nao é primitivo
         String nome = "Willian";
 
-        System.out.println(caractere);
+        System.out.println("O caractere é: " + caractere);
 
     }
 }

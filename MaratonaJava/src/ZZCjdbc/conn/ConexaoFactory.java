@@ -14,6 +14,7 @@ public class ConexaoFactory {
         String user = "root";
         String password = "";
 
+
      try {
         // Connection connection = DriverManager.getConnection(url, user, password);
          //System.out.println(connection);
