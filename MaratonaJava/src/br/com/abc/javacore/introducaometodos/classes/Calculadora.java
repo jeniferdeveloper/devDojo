@@ -33,4 +33,36 @@ public class Calculadora {
         }
         System.out.println("Não é possivel dividir por 0");
     }
+
+    public void alteraDoisNumeros(int num1, int num2){
+        num1 = 30;
+        num2 = 40;
+
+        System.out.println("Dentro do altera dois numeros");
+        System.out.println("Num1: " + num1);
+        System.out.println("Num2: " + num2);
+    }
+
+    public void somaArray(int[] numeros){
+        int soma = 0;
+
+        for(int num : numeros){
+            //soma recebe ela mesmo mais o valor de num
+            soma += num;
+        }
+
+        System.out.println(soma);
+    }
+
+    // só poder ter um varArgs por metodo e tem q ser sempre o ultimo parametro: int... numeros
+    public void somaVarArgs(double valorDouble, int... numeros){
+        int soma = 0;
+
+        for(int num : numeros){
+            //soma recebe ela mesmo mais o valor de num
+            soma += num;
+        }
+
+        System.out.println(soma);
+    }
 }
